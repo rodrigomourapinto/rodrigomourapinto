@@ -10,14 +10,14 @@
 
 <!--
 <div> 
-  <a href="https://github.com/rodrigomourapintodsl/">
+  <a href="https://github.com/rodrigomourapinto/">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Olá!%20Eu%20sou%20Rodrigo,%20Analista%20de%20suporte.&section=header&reversal=false&fontAlignY=22&fontSize=30&rotate=360&descAlign=100&descAlignY=46&animation=scaleIn&textBg=false&fontAlign=50&customColorList=2,3,4,12,19">
   </a>
 </div>
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomourapintodsl&amp;layout=compact&amp;langs_count=7&amp;theme=">
-    <img src="https://github-readme-stats.vercel.app/api?username=rodrigomourapintodsl&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=&amp;locale=pt-br">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomourapintodsl&hide_progress=true;theme=&amp;locale=pt-br">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomourapinto&amp;layout=compact&amp;langs_count=7&amp;theme=">
+    <img src="https://github-readme-stats.vercel.app/api?username=rodrigomourapinto&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=&amp;locale=pt-br">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomourapinto&hide_progress=true;theme=&amp;locale=pt-br">
   </a>
 </div>
 -->
@@ -32,11 +32,11 @@
   <a href="https://n8n.io/"><img alt="n8n.io" width="40" height="40" style="vertical-align:middle;margin:50px 0px" src="https://avatars.githubusercontent.com/u/45487711?s=40&v=4"></a>
   <a href="https://aka.ms/terminal"><img alt="cmd.exe" width="40" height="40" style="vertical-align:middle;margin:50px 0px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/msdos/msdos-original.svg"></a>
 </div>
-[![](https://ghstats.dev/api/langs?username=rodrigomourapintodsl&theme=palenight&custom_title=Rodrigo+Moura+Pinto&max_langs=12&layout=donut)]()
+[![](https://ghstats.dev/api/langs?username=rodrigomourapinto&theme=palenight&custom_title=Rodrigo+Moura+Pinto&max_langs=12&layout=donut)]()
 -->
 
 
-[![](https://ghstats.dev/api/card?username=rodrigomourapintodsl&theme=palenight&show_ring=false&hide_border=true&custom_title=Rodrigo+Moura+Pinto)](#)
+[![](https://ghstats.dev/api/card?username=rodrigomourapinto&theme=palenight&show_ring=false&hide_border=true&custom_title=Rodrigo+Moura+Pinto)](#)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
