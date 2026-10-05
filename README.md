@@ -35,7 +35,6 @@
 [![](https://ghstats.dev/api/langs?username=rodrigomourapinto&theme=palenight&custom_title=Rodrigo+Moura+Pinto&max_langs=12&layout=donut)]()
 -->
 
-
 [![](https://ghstats.dev/api/card?username=rodrigomourapinto&theme=palenight&show_ring=false&hide_border=true&custom_title=Rodrigo+Moura+Pinto)](#)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
@@ -58,3 +57,4 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![SVG+XML](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)](#)
 
+[![](https://github-statspro.vercel.app/api/languages/rodrigomourapinto?theme=nord&layout=compact)](#)
