@@ -8,6 +8,7 @@
 
 [![](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&letterSpacing=&duration=300&pause=1500&width=435&height=32&lines=🐘%20Habilidade+em+PostgreSQL;💻%20Consultor+t%C3%A9cnico+ERP;📄%20Especialista+em+NFS-e)](#)
 
+<!--[![Github](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg)](#)-->
 <!--
 <div> 
   <a href="https://github.com/rodrigomourapinto/">
@@ -58,3 +59,5 @@
 [![SVG+XML](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)](#)
 
 [![](https://github-statspro.vercel.app/api/languages/rodrigomourapinto?theme=nord&layout=compact)](#)
+
+[![Jogo github](https://githubuniverse.com/_next/static/media/_bug-bash-bug.f5595d76.webp)](https://bug-bash.github.com)
