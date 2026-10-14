@@ -60,5 +60,3 @@
 [![SVG+XML](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)](#)
 
 [![](https://github-statspro.vercel.app/api/languages/rodrigomourapinto?theme=nord&layout=compact)](#)
-
-[![Jogo github](https://githubuniverse.com/_next/static/media/_bug-bash-bug.f5595d76.webp)](https://bug-bash.github.com)
