@@ -40,6 +40,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](#)
 
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](#)
@@ -53,7 +54,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white)](#)
 
-[![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white)](#)
 [![Google Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![SVG+XML](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)](#)
