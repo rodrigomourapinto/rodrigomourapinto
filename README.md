@@ -1,7 +1,7 @@
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](.)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rodrigomourapinto)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/rodrigomourapinto)
-[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/rodrigomourapinto/)
+[![Github Sponsors](https://img.shields.io/badge/Patrocine-30363D?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/rodrigomourapinto/)
 
 [![](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&letterSpacing=&duration=300&pause=1500&width=435&height=32&lines=💻%20Consultor+t%C3%A9cnico+ERP;📄%20Especialista+em+NFS-e;🐘%20Habilidade+em+PostgreSQL)](#)
 
