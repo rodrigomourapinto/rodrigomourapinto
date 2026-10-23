@@ -1,6 +1,7 @@
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](.)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomourapinto)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rodrigomourapinto)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/rodrigomourapinto)
+[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/rodrigomourapinto/)
 
 [![](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&letterSpacing=&duration=300&pause=1500&width=435&height=32&lines=💻%20Consultor+t%C3%A9cnico+ERP;📄%20Especialista+em+NFS-e;🐘%20Habilidade+em+PostgreSQL)](#)
 
@@ -8,6 +9,7 @@
 
 [![](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&letterSpacing=&duration=300&pause=1500&width=435&height=32&lines=🐘%20Habilidade+em+PostgreSQL;💻%20Consultor+t%C3%A9cnico+ERP;📄%20Especialista+em+NFS-e)](#)
 
+<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/rodrigomourapinto)-->
 <!--[![Github](https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg)](#)-->
 <!--
 <div> 
@@ -38,25 +40,41 @@
 
 [![](https://ghstats.dev/api/card?username=rodrigomourapinto&theme=palenight&show_ring=false&hide_border=true&custom_title=Rodrigo+Moura+Pinto)](#)
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)](#)
 [![Dbeaver](https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white)](#)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#)
 
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white)](#)
+[![Portainer](https://img.shields.io/badge/Portainer-C080FF?logo=Portainer&logoColor=fff)](#)
 [![Google Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![SVG+XML](https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff)](#)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 [![](https://github-statspro.vercel.app/api/languages/rodrigomourapinto?theme=nord&layout=compact)](#)
