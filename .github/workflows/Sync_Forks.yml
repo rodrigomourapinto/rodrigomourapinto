@@ -9,6 +9,7 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.FORK_SYNC_TOKEN }}
       # https://github.com/settings/tokens/new
+      # https://github.com/rodrigomourapinto/rodrigomourapinto/settings/secrets/actions
     steps:
       - run: |
           gh repo list rodrigomourapinto --fork --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | xargs -r -n1 -P5 -I{} sh -c 'gh repo sync "$1" || true' _ {}
