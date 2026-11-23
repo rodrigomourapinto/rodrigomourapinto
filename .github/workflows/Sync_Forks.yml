@@ -1,0 +1,14 @@
+name: Sync Forks
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.FORK_SYNC_TOKEN }}
+      # https://github.com/settings/tokens/new
+    steps:
+      - run: |
+          gh repo list rodrigomourapinto --fork --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | xargs -r -n1 -P5 -I{} sh -c 'gh repo sync "$1" || true' _ {}
