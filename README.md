@@ -36,9 +36,8 @@
   <a href="https://aka.ms/terminal"><img alt="cmd.exe" width="40" height="40" style="vertical-align:middle;margin:50px 0px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/msdos/msdos-original.svg"></a>
 </div>
 [![](https://ghstats.dev/api/langs?username=rodrigomourapinto&theme=palenight&custom_title=Rodrigo+Moura+Pinto&max_langs=12&layout=donut)]()
--->
-
 [![](https://ghstats.dev/api/card?username=rodrigomourapinto&theme=palenight&show_ring=false&hide_border=true&custom_title=Rodrigo+Moura+Pinto)](#)
+-->
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
@@ -77,4 +76,10 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
-[![](https://github-statspro.vercel.app/api/languages/rodrigomourapinto?theme=nord&layout=compact)](#)
+[![](https://github-statspro.vercel.app/api/stats/rodrigomourapinto?theme=nord&design=modern)](#)
+[![](https://github-statspro.vercel.app/api/skills?theme=nord&username=rodrigomourapinto&auto_detect=true&group=true)](#)
+[![](https://github-statspro.vercel.app/api/languages/rodrigomourapinto?theme=nord&layout=default)](#)
+
+<!--
+[![](https://github-statspro.vercel.app/api/repo?theme=nord&owner=rodrigomourapinto&repo=Validar-digito-verificador-de-CPF-ou-CNPJ)](#)
+-->
